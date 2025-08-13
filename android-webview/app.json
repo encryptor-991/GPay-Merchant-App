@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GPay Merchant WebView",
+    "slug": "gpay-merchant-webview",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.example.gpaymerchantwebview",
+      "versionCode": 1
+    }
+  }
+}
